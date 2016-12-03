@@ -1,0 +1,20 @@
+17
+10
+10
+4
+1
+55
+17
+potion Small Potion 10
+potion Small Potion 10
+null
+null
+null
+null
+null
+null
+null
+null
+equipment Thick Shirt 0 5 None
+equipment Wooden Stick 5 0 None
+
